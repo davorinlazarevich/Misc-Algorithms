@@ -1,7 +1,7 @@
 /**
  * Created by Davorin on 3/14/2017.
  */
-public class Alignment {
+public class SequenceAlignment {
     int [][] mygraph;
     String x;
     String y;
